@@ -60,6 +60,6 @@ Changelogs:
 
 ## Contacts
 
-GitHub: [Thanatisia](https://github.com/Thanatisia)
-Twitter: [@phantasu](https://twitter.com/phantasu)
-Fiverr: fortissimasura
+- GitHub: [Thanatisia](https://github.com/Thanatisia)
+- Twitter: [@phantasu](https://twitter.com/phantasu)
+- Fiverr: fortissimasura
