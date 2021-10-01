@@ -25,13 +25,14 @@ Thank you :)
 
 > - {file-name}, {parent-folder-name}, {author}, {create-date}, {modified-date}
 
-- index.html, root, Asura, 2021-09-30, 2021-09-30
+- index.html, root, Asura, 2021-09-30, 2021-10-01
 - script.js, scripts\js, Asura, 2021-09-30, 2021-09-30
 - style.css, styles\css, Asura, 2021-09-30, 2021-09-30
 - responsive.css, styles\css, Asura, 2021-09-30, 2021-09-30
-- todolist.html, sites, Asura, 2021-09-30, 2021-09-30
-- forum.html, sites\test, Asura, 2021-09-30, 2021-09-30
 - footer.html, templates, Asura, 2021-09-30, 2021-09-30
+- learning-room.html, sites, Asura, 2021-10-01, 2021-10-01
+- practice-ground.html, sites, Asura, 2021-10-01, 2021-10-01
+- testbench.html, sites, Asura, 2021-10-01, 2021-10-01
 
 ## Folders
 
@@ -49,9 +50,15 @@ Author: Asura
 Date Created: 2021-09-30 1647H, Asura
 Date Modified:
     2021-09-30 1647H, Asura
+    2021-10-01 1015H, Asura
 Changelogs:
     2021-09-30 1647H, Asura
         - Created source
+    2021-10-01 1015H, Asura
+        - Updated with Portfolio Website
+        - Created 'testbench', 'learningroom', 'practiceground'
+        - Updated index.html
+        - Updated style.css
 
 ## Remarks
 
@@ -63,3 +70,4 @@ Changelogs:
 - GitHub: [Thanatisia](https://github.com/Thanatisia)
 - Twitter: [@phantasu](https://twitter.com/phantasu)
 - Fiverr: fortissimasura
+- Portfolio Website: [Thanatisia|Asura|Phantasu](https://thanatisia.github.io/my-portfolio-website)
