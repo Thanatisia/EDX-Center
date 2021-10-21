@@ -1,6 +1,6 @@
-function show_console_commands() {
+function tutorial_2() {
 	/*
-	 * State all console commands
+	 * Show all console commands
 	 * Example:
 	 * 	console.log()
 	*/
