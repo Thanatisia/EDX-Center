@@ -1,0 +1,14 @@
+body {
+	/* Applies to everything within <body> tag */
+	background-color: beige;
+	font-style: normal;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.headers {
+	font-weight: bold;
+	text-decoration: underline;
+}
